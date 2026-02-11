@@ -1,0 +1,110 @@
+commit 504201933ccca545610ecf84a98de24d9df7adf7
+Author: Faisal <257405804+Faisal-123@users.noreply.github.com>
+Date:   Wed Feb 11 01:11:34 2026 -0800
+
+    Create repo-location.txt
+
+commit 4e0854eb248e7097e7c06d74d330174d91720b80
+Author: Faisal <257405804+Faisal-123@users.noreply.github.com>
+Date:   Wed Feb 11 01:11:04 2026 -0800
+
+    Add introductory information to README
+
+commit 57d9b300ad2369606006fadf490068e314705559
+Author: ccryystal <cavila59@calstatela.edu>
+Date:   Wed Feb 11 00:53:43 2026 -0800
+
+    Update index.html partner info
+    
+    Crystal added partner info to index.html
+
+commit 92aa416bbc23ced2f321ca453a8583b9cc5278a1
+Merge: 7aa86ec 48a2f93
+Author: Faisal <257405804+Faisal-123@users.noreply.github.com>
+Date:   Fri Feb 6 13:06:59 2026 -0800
+
+    Merge pull request #2 from Faisal-123/feature-about-me
+    
+    Feature about me
+
+commit 48a2f93be978fc84b49d8b30079b69c5940419dc
+Merge: 10dcf69 1fffae2
+Author: Faisal <257405804+Faisal-123@users.noreply.github.com>
+Date:   Fri Feb 6 13:05:50 2026 -0800
+
+    Merge branch 'feature-about-me' of https://github.com/Faisal-123/CS3338-Homework-1 into feature-about-me
+
+commit 10dcf69ef47f2d15290131ac9d2ae5351e12e78a
+Author: Faisal <257405804+Faisal-123@users.noreply.github.com>
+Date:   Fri Feb 6 13:05:20 2026 -0800
+
+    Update index.html
+    
+    Fix feature about me.
+
+commit 7aa86ec68ed9f25fcc29bceb0474afdb20735521
+Merge: 795ce34 1fffae2
+Author: Faisal <257405804+Faisal-123@users.noreply.github.com>
+Date:   Fri Feb 6 13:01:32 2026 -0800
+
+    Merge pull request #1 from Faisal-123/feature-about-me
+    
+      move features about me to main
+
+commit 1fffae2b074f8fb9ec9409937224cedcaaf2ce96
+Merge: 36c86ba 795ce34
+Author: Faisal <257405804+Faisal-123@users.noreply.github.com>
+Date:   Fri Feb 6 13:00:46 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 795ce34126688a59e3072cc600b7d40f160714cd
+Author: Faisal <257405804+Faisal-123@users.noreply.github.com>
+Date:   Fri Feb 6 12:45:44 2026 -0800
+
+    Update index.html
+
+commit 7c49a30f314565781cc4682abadf72279b54c15d
+Author: Faisal <257405804+Faisal-123@users.noreply.github.com>
+Date:   Fri Feb 6 12:42:26 2026 -0800
+
+    Update index.html
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
